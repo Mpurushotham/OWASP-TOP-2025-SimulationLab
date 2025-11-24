@@ -1,0 +1,5 @@
+{
+  "name": "OWASP 2025 Interactive Lab",
+  "description": "An interactive, educational simulation of the OWASP Top 10 (2025) vulnerabilities featuring real-time attack simulations, architectural visualizations, and AI-powered remediation guidance.",
+  "requestFramePermissions": []
+}
